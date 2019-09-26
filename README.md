@@ -1,6 +1,6 @@
 # 𝖏𝖔𝖇𝖘𝖍𝖊𝖊𝖙-12-𝖋𝖚𝖓𝖈𝖙𝖎𝖔𝖓-𝖒𝖊𝖙𝖍𝖔𝖉
 𝓵𝓪𝓽𝓲𝓱𝓪𝓷1
-1.  A.Method type  B.Method name    C.Code    D.Memanggil fungsi
+1.  A.Method type  B.Method name    C.Code yang akan di tampilkan   D.Memanggil fungsi
  
  
  ![AltText](
