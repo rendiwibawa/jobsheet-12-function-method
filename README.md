@@ -8,7 +8,6 @@ https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/1.PNG)
     
     contoh:
     
-    
 ![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/latihan1.PNG)
 
 
