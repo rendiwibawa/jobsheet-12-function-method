@@ -37,7 +37,7 @@
 
 sumua cara pemanggilan di 1,2,3,4 error karena di pemanggilan no{1,2,3}jumlah parameternya tidak sama dengan yang ada di method.dan yang nomor 4 error karena pada parameter pada parameternya terdapat bilangan desimal yang tidak sesuai dengan tipe method nya yaitu integer.
 
-![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/latihan3.PNG)
+![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/latihan3error.PNG)
 
 
 
