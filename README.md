@@ -3,9 +3,7 @@
 
 
 
-#latihan1
-
-
+latihan1
 
 
 
@@ -17,7 +15,7 @@
 
 
 
-#latihan 2
+latihan 2
 
 
 
@@ -28,7 +26,8 @@
 
 
 
-#latihan 2 nisn
+
+latihan 2 nisn
 
 
 
@@ -39,7 +38,7 @@
 
 
 
-#latihan 3
+latihan 3
 
 
 
@@ -54,7 +53,7 @@
 
 
 
-#latihan 4
+latihan 4
 
 
 
@@ -68,7 +67,7 @@
 
 
 
-#latihan5
+latihan5
 
 
 
