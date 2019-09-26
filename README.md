@@ -6,20 +6,12 @@
 
 
 
-![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/Latihan1.java)
-
-
-
-
 
 𝓵𝓪𝓽𝓲𝓱𝓪𝓷2
 
 
 ![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/latihan2asli.PNG)
 
-
-
-![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/Latihan2.java)
 
 
 
@@ -41,12 +33,6 @@
 
 
 
-![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/Latihan3.java)
-
-
-
-
-
 
 𝓵𝓪𝓽𝓲𝓱𝓪𝓷4
 
@@ -56,22 +42,11 @@
 
 
 
-![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/Latihan4.java)
-
-
-
-
-
 
 𝓵𝓪𝓽𝓲𝓱𝓪𝓷5
 
 
 ![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/latihan5.PNG)
-
-
-
-
-![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/Latihan5.java)
 
 
 
