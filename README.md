@@ -3,7 +3,10 @@
 1.  A.Method type  B.Method name    C.Code    D.Memanggil fungsi
     
     
-    contoh
+    contoh:
+    
+    
+    
 ![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/latihan1.PNG)
 
 
@@ -29,6 +32,9 @@
 
 
 𝓵𝓪𝓽𝓲𝓱𝓪𝓷3
+
+
+
 sumua cara pemanggilan di 1,2,3,4 error karena di pemanggilan no{1,2,3}jumlah parameternya tidak sama dengan yang ada di method.dan yang nomor 4 error karena pada parameter pada parameternya terdapat bilangan desimal yang tidak sesuai dengan tipe method nya yaitu integer.
 
 ![AltText](https://github.com/rendiwibawa/jobsheet-12-function-method/blob/master/latihan3.PNG)
